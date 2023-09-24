@@ -4,7 +4,7 @@ A term deposit is a fixed-term investment that includes the deposit of money int
 
 Term deposit accounts provide banks with the cash flow they need to lend money to other customers. The bank makes a profit by lending the funds held in time deposit accounts for a higher interest rate than the rate it pays on the time deposits.
 
-So developing the predictive model for Term Deposit is one of the essential model to have.
+So, building the predictive model for Term Deposit is one of the essential model to have.
 
 
 **DATASET Understanding**
